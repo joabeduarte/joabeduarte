@@ -77,24 +77,12 @@
 
 @media (max-width: 500px) {
   .introducao img {
-    max-width: 40%;
-    margin: 0 auto;
+    display: none;
   }
 
   .introducao-content p {
     font-size: 1rem;
     line-height: 1.4;
     max-width: 25ch;
-  }
-}
-
-@media (max-width: 440px) {
-  .introducao h1 {
-    color: blue;
-  }
-  .introducao img {
-    max-width: 45%;
-    margin: 0 auto;
-    height: auto !important;
   }
 }
