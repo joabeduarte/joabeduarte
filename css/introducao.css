@@ -87,3 +87,11 @@
     max-width: 25ch;
   }
 }
+
+@media (max-width: 440px) {
+  .introducao img {
+    max-width: 40%;
+    margin: 0 auto;
+    height: auto;
+  }
+}
