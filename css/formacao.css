@@ -35,6 +35,10 @@
   border: 1px solid transparent;
   transition: 0.2s;
 }
+.certificados ul li a:last-child:hover {
+  cursor: pointer;
+}
+
 .certificados ul li a:hover {
   border-color: #a9a9a9;
 }

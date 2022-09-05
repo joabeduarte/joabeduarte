@@ -16,7 +16,8 @@
   line-height: 1.4;
 }
 .footer h1 span {
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  font-weight: bold;
 }
 
 .footer ul {
@@ -37,7 +38,7 @@
 
 @media (max-width: 500px) {
   .footer h1 {
-    max-width: 30ch;
+    max-width: 15ch;
     font-size: 1rem;
     line-height: 1.4;
   }
