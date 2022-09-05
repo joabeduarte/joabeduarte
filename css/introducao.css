@@ -89,9 +89,12 @@
 }
 
 @media (max-width: 440px) {
+  .introducao h1 {
+    color: blue;
+  }
   .introducao img {
-    max-width: 40%;
+    max-width: 25%;
     margin: 0 auto;
-    height: initial !important;
+    height: auto !important;
   }
 }
