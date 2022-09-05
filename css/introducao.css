@@ -92,6 +92,6 @@
   .introducao img {
     max-width: 40%;
     margin: 0 auto;
-    height: auto;
+    height: initial !important;
   }
 }
