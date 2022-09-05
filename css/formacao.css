@@ -36,7 +36,7 @@
   transition: 0.2s;
 }
 .certificados ul li a:last-child:hover {
-  cursor: pointer;
+  cursor: pointer !important;
 }
 
 .certificados ul li a:hover {
