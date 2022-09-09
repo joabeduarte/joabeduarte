@@ -77,9 +77,10 @@
 
 @media (max-width: 500px) {
   .introducao img {
-    display: block;
+    display: none;
+    /* display: block;
     max-width: 14rem;
-    object-fit: contain;
+    object-fit: contain; */
   }
 
   .introducao-content p {
