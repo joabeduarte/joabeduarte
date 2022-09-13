@@ -39,10 +39,14 @@
 @media (max-width: 500px) {
   .footer h1 {
     max-width: 15ch;
-    font-size: 1rem;
+    font-size: 0.875rem;
     line-height: 1.4;
   }
+  .footer ul li,
   .footer ul li a {
-    font-size: 1rem;
+    font-size: 0.875rem;
+  }
+  .footer ul {
+    gap: 10px;
   }
 }
